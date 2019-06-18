@@ -1,0 +1,10 @@
+C:\Users\ManhGD\source\repos\helloworld\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\ManhGD\source\repos\helloworld\server\obj\Debug\helloworld.Server.resources
+C:\Users\ManhGD\source\repos\helloworld\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\ManhGD\source\repos\helloworld\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\ManhGD\source\repos\helloworld\server\bin\Debug\server.exe.config
+C:\Users\ManhGD\source\repos\helloworld\server\bin\Debug\server.exe
+C:\Users\ManhGD\source\repos\helloworld\server\bin\Debug\server.pdb
+C:\Users\ManhGD\source\repos\helloworld\server\obj\Debug\server.exe
+C:\Users\ManhGD\source\repos\helloworld\server\obj\Debug\server.pdb
+C:\Users\ManhGD\source\repos\helloworld\server\obj\Debug\server.csprojAssemblyReference.cache

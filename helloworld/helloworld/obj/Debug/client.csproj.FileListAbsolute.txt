@@ -1,0 +1,9 @@
+C:\Users\ManhGD\source\repos\helloworld\helloworld\bin\Debug\helloworld.exe.config
+C:\Users\ManhGD\source\repos\helloworld\helloworld\bin\Debug\helloworld.exe
+C:\Users\ManhGD\source\repos\helloworld\helloworld\bin\Debug\helloworld.pdb
+C:\Users\ManhGD\source\repos\helloworld\helloworld\obj\Debug\helloworld.Client.resources
+C:\Users\ManhGD\source\repos\helloworld\helloworld\obj\Debug\helloworld.Properties.Resources.resources
+C:\Users\ManhGD\source\repos\helloworld\helloworld\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\ManhGD\source\repos\helloworld\helloworld\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\ManhGD\source\repos\helloworld\helloworld\obj\Debug\helloworld.exe
+C:\Users\ManhGD\source\repos\helloworld\helloworld\obj\Debug\helloworld.pdb
